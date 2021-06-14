@@ -1,3 +1,3 @@
-[] Tea
-[] Coffee
-[] Beer
+- Tea
+- Coffee
+- Beer
